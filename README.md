@@ -14,7 +14,12 @@ At the beginning of this challenge, it's just an HTML page that displays letters
 - classList
 - transitionend
 
+### End Results
 
+Screenshot:
 ![screenshot](./images/drumKit.png)
+
+Demo (no sound available):
+![gif](./images/DrumKit.gif)
 
 Starter code from [Javascript 30 Challenge](https://github.com/wesbos/JavaScript30)
